@@ -26,7 +26,9 @@ This Streamlit application acts as an intelligent assistant for your technical d
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate
+    # On Windows use `venv\Scripts\activate`
+    
     ```
 
 3.  **Install dependencies:**
