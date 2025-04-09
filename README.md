@@ -86,16 +86,6 @@ This application requires API keys for several services.
 5.  Click "Process Documents" to start OCR and vectorization.
 6.  Navigate through the tabs ("Suggested Topics", "Ask Questions", "Code Generation") to interact with the assistant.
 
-## Testing Google Search Integration
-
-A separate script `int.py` is provided to test your Google Custom Search API credentials independently.
-
-1.  Make sure your `.env` file is correctly configured with `GOOGLE_SEARCH_API_KEY` and `GOOGLE_SEARCH_CX`.
-2.  Run the script from your terminal:
-    ```bash
-    python int.py
-    ```
-3.  Check the output for success or error messages regarding the API connection.
 
 
 
