@@ -14,10 +14,6 @@ This Streamlit application acts as an intelligent assistant for your technical d
 *   **Code Generation:** Generate code snippets based on the technical context found in your documents and specific user prompts, using Google Gemini.
 *   **Chat & Code History:** Maintains a history of your questions and generated code for context and reference.
 
-## Requirements
-
-*   Python 3.8+
-*   Pip (Python package installer)
 
 ## Setup
 
