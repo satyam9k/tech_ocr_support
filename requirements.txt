@@ -1,0 +1,12 @@
+python-dotenv
+mistralai
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+chromadb
+sentence-transformers
+requests
+google-api-python-client
+pytest
+google-generativeai
